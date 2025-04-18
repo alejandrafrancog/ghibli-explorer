@@ -25,7 +25,7 @@ class FilmsPageState extends State<FilmsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(Constants.appName, style: StyleConstants.appBarTitle),
+        title: const Text(Constants.filmsTitle, style: StyleConstants.appBarTitle),
         backgroundColor: const Color.fromRGBO(199, 158, 81, 1),
       ),
       body: Container(
