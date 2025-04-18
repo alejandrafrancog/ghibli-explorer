@@ -16,13 +16,6 @@ A minimalist Flutter app exploring the Studio Ghibli universe through their publ
 - 🖼️ Missing movie posters integration
 - 📱 Responsive layout improvements
 
-## 📦 Tech Stack
-- **Flutter 3.19+** - Dart 3.3
-- **Studio Ghibli API** - https://ghibliapi.dev
-- **Architecture**: Basic Clean Architecture
-- **State Management**: Provider (o el que uses)
-- **Dependencies**: http, flutter_bloc (si aplica)
-
 ## 🛠️ Development Setup
 
 ```bash
