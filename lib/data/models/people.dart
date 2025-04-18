@@ -3,14 +3,14 @@ class People{
   final String name;
   final String gender;
   final String age;
-  final String eye_color;
-  final String hair_color;
+  final String eyeColor;
+  final String hairColor;
 
   People
   ({required this.id,
     required this.name,
     required this.gender,
     required this.age,
-    required this.eye_color,
-    required this.hair_color});
+    required this.eyeColor,
+    required this.hairColor});
 }

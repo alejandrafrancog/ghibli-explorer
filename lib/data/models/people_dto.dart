@@ -29,7 +29,7 @@ class PeopleDTO{
         name: name,
         gender: gender,
         age: age,
-        eye_color: eyeColor,
-        hair_color: hairColor,
+        eyeColor: eyeColor,
+        hairColor: hairColor,
       );
 }
