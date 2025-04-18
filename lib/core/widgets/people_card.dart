@@ -22,7 +22,7 @@ class PeopleCard extends StatelessWidget{
               style:StyleConstants.descriptionTxt,
               ),
               Text(
-                "Release year: ${people.age.toString()}",
+                "Age: ${people.age.toString()}",
                 style:StyleConstants.releaseYear
               ),
               
