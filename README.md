@@ -1,16 +1,30 @@
-# ghibli_explorer
+# Ghibli Explorer 🏯✨
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-3.19+-02569B?logo=flutter)](https://flutter.dev)
 
-## Getting Started
+A minimalist Flutter app exploring the Studio Ghibli universe through their public API. Perfect for learning Flutter fundamentals, REST API integration, and basic clean architecture principles.
 
-This project is a starting point for a Flutter application.
+## 🎯 Current Features
+- 🏠 Welcome screen with animated UI
+- 🎥 Films browser with basic info (title, description, release date)
+- 👥 Character list (name, gender, age)
+- 🧩 Clean API service implementation
+- ➡️ Basic navigation between screens
 
-A few resources to get you started if this is your first Flutter project:
+## 🚧 In Progress
+- ⚠️ Location screen (button no funcional)
+- 🖼️ Missing movie posters integration
+- 📱 Responsive layout improvements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Development Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# 1. Clone repo
+git clone https://github.com/alejandrafrancog/ghibli-explorer.git
+
+# 2. Install dependencies
+flutter clean
+flutter pub get
+
+# 3. Run app
+flutter run
